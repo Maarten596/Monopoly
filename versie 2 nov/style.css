@@ -1,0 +1,20 @@
+body {
+	background: #dcf7f6;
+	margin: 0px;
+}
+
+
+#settingsBar {
+	padding: 5px;
+	border-bottom: 3px solid black;
+	background: #4286f4;
+}
+
+
+
+.chart {
+	margin: auto;
+    width: 60%;
+    padding: 10px;
+    /*border-bottom: 3px solid black*/
+}
